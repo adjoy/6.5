@@ -1,7 +1,7 @@
 import React from 'react';
 import {shallow} from 'enzyme';
 
-import Game from './game';
+import Game from './index';
 
 describe('<Game />', () => {
     //T esting newGame
